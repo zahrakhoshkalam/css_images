@@ -11,3 +11,6 @@ body {
 p {
   color: beige;
 }
+img {
+  opacity: 0.9;
+}
