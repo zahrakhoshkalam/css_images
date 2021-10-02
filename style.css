@@ -13,4 +13,6 @@ p {
 }
 img {
   opacity: 0.9;
+  -webkit-clip-path: circle(40% at 50% 50%);
+  clip-path: circle(40% at 50% 50%);
 }
